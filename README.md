@@ -23,6 +23,7 @@ Sistema web para geração automática de instaladores WireGuard para Windows.
 pip install -r requirements.txt
 python app.py
 
+```
 ## 🚀 Acesse
 
 http://localhost:5000
@@ -36,4 +37,5 @@ Utilize VPN ou restrinja o acesso por firewall.
 ## 👨‍💻 Autor
 
 Desenvolvido por Wilgner Kleyton Corrêa
+
 Versão: 1.0
