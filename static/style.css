@@ -1,0 +1,15 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.preview-box {
+    background-color: #1e1e1e;
+    color: #00ff9c;
+    padding: 15px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+footer {
+    opacity: 0.85;
+}
